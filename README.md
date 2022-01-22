@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Jeff — a Site Reliability Engineer focused on building scalable systems, and learning the best tools available to fix problems quickly.
+Hi there! 👋 I'm Jeff
 
 - 🔭 I’m currently working on improving [Parallel Domain](https://github.com/parallel-domain)'s API for synthetic data.  (I'm [pd-jeff](https://github.com/pd-jeff)!)
 - 🌱 I’m currently learning Wordpress and Scribus.
