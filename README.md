@@ -5,5 +5,5 @@ Hi there! 👋 I'm Jeff
 - 🌱 I’m currently learning Wordpress and Scribus.
 - 💬 Ask me about AWS Cloud Pipelines, building massive scale Python apps, and Linux system stuff.
 - 📫 How to reach me: Pop me an email at jefftaylor42 [at] gmail [dot] com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/they
 - ⚡ Fun fact: I love spicy food.
