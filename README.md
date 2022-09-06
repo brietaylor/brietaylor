@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Jeff (Bri 🏳️‍⚧️)
+Hi there! 👋 I'm Brie
 
 - 🔭 I’m currently working with [Raydiant](https://www.raydiant.com/)
 - 💡 I worked on the [Serratus](serratus.io) sequence alignment platform, published in [Nature](https://www.nature.com/articles/s41586-021-04332-2)!
